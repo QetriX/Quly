@@ -1,4 +1,4 @@
-namespace Quly
+namespace com.qetrix.apps.quly.libs
 {
 	using System;
 	using System.Collections;
