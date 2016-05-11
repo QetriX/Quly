@@ -1,4 +1,4 @@
-namespace Quly
+namespace com.qetrix.apps.quly.libs
 {
 	using UnityEngine;
 	using System.Collections;
